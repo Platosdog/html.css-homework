@@ -1,0 +1,12 @@
+html{
+    background-color: black;
+}
+
+.heading{
+    background-image: url("golden.jpg");
+    height: 400px;
+    width: 100%;
+    width: 95%;
+    background-size: cover;
+    text-decoration-style: solid;
+}
