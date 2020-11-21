@@ -12,9 +12,12 @@
         text-align: center;
         margin-left: auto;
         margin-right: auto;
+        margin-top: 50px;
     }
 
     .paragraph2{
+        margin-top: 200px;
+        margin-left: 70px;
         width: 80%;
         border-radius: 40% / 5% 50%;
         border: 5px solid #e70707;
