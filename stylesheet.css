@@ -1,7 +1,23 @@
 .background {
   background-image: url("japan.jpg");
-  text-align: center;
   height: 700px;
   width: 100%;
   background-size: cover;
+  border-style: inset;
 }
+    .paragraph1{
+        width:80px;
+        border-radius: 30px;
+        border: 5px solid #e70707;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .paragraph2{
+        width: 80%;
+        border-radius: 40% / 5% 50%;
+        border: 5px solid #e70707;
+        padding: 50px;
+        text-align: center;
+    }
