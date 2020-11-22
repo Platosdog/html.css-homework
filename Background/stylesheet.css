@@ -8,5 +8,35 @@ html{
     width: 100%;
     width: 95%;
     background-size: cover;
-    text-decoration-style: solid;
+    font-size: x-large;
+    text-align: center;
+   
+}
+
+.outerdiv{
+    height: 600px;
+	width: 1000px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.left{
+    color: white;
+    box-sizing: content-box;
+    height: auto;
+    width: 40%;
+    float: left;
+    text-align: center;
+    padding: 50px;
+  
+}
+
+.right{
+    color: white;
+    box-sizing: content-box;
+    height: auto;
+    width: 40%;
+    float: right;
+    text-align: center;
+    padding: 50px;
 }
