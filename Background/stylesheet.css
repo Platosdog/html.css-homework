@@ -4,21 +4,22 @@ html{
 
 .heading{
     background: url("golden.jpg");
-    background-color: black;
-    opacity: 50%;
-    color: blanchedalmond;
     height: 400px;
     width: 100%;
-    width: 95%;
     background-size: cover;
+}
+.text{
+    height: 400px;
+    width: 100%;
+    color: white;
     font-size: 100px;
     text-align: center;
-   
-}
+    background-color: rgba(0, 0, 0, 0.541);
 
+}
 .outerdiv{
     height: 600px;
-	width: 1000px;
+	width: 1200px;
     margin: auto;
     padding-top: 100px;
 }
