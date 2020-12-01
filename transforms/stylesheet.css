@@ -1,0 +1,12 @@
+.translate {
+    transform: translate(180px, 10px);
+}
+.scale {
+    transform: scale(0.8, 0.5);
+}
+.rotate {
+    transform: rotate(90deg);
+}
+.skew {
+    transform: skew(15deg,20deg);
+}
