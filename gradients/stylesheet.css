@@ -1,0 +1,15 @@
+.gibson-sunburst {
+    height: 600px;
+    width: 100%;
+    background: radial-gradient(rgb(252, 137, 29), rgb(199, 66, 5));
+  }
+  .two {
+    height: 300px;
+    width: 100%;
+    background: linear-gradient(45deg, aqua, lemonchiffon);
+  }
+  .three {
+    height: 300px;
+    width: 100%;
+    background: linear-gradient(45deg, aqua, lemonchiffon);
+  }
